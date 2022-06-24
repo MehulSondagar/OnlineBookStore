@@ -1,0 +1,5 @@
+B100,Still Alice,Lisa Genova,15.99
+B200,Ulysses,James Joyce,8.99
+B300,The Time Traveler's Wife,Audrey Niffenegger,6.99
+B400,The Historian,Elizabeth Kostova,10.99
+B500,Walk Two Moons,Sharon Creech,5.99

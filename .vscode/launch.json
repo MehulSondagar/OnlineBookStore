@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ETest",
+            "request": "launch",
+            "mainClass": "ETest",
+            "projectName": "Online Book Store Project Final_6374a51b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ETest",
+            "request": "launch",
+            "mainClass": "ETest",
+            "projectName": "Java_caf2a40d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ETest",
+            "request": "launch",
+            "mainClass": "ETest",
+            "projectName": "Java_2fa3b954"
+        },
+        {
+            "type": "java",
+            "request": "attach",
+            "name": "Java",
+            "port": 5005,
+            "sourceRoots": []
+        }
+    ]
+}
